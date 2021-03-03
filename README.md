@@ -1,4 +1,9 @@
 # Qats & DoQs
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4569383.svg)](https://doi.org/10.5281/zenodo.4569383)
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+
 - Classifier of quantum cats and quantum dogs
 
 ## Structure <a name="structure"></a>
@@ -40,3 +45,27 @@ The classify regions of the Hilbert space. E.g. :
 #### Compare with 
 - The standard way of testing, that is, when we can run the circuit multiple times to get expected value of the PauliZ measurement :
 	- The result can be e.g. 0.5, then we classify it as "cat", as it's closer to 1 than to -1. (So, you see that when we can run the circuit only once, we can be unlucky that we get -1, even if the expected value over many runs is 0.5.)
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/saharbenrached"><img src="https://avatars.githubusercontent.com/u/58570811?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Sahar Ben Rached</b></sub></a><br /><a href="https://github.com/mickahell/qhack21/commits?author=saharbenrached" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/AlainChance"><img src="https://avatars.githubusercontent.com/u/43089974?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alain</b></sub></a><br /><a href="https://github.com/mickahell/qhack21/commits?author=AlainChance" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Zed-Is-Dead"><img src="https://avatars.githubusercontent.com/u/7906730?v=4?s=100" width="100px;" alt=""/><br /><sub><b>LQuerellaZ</b></sub></a><br /><a href="https://github.com/mickahell/qhack21/commits?author=Zed-Is-Dead" title="Code">💻</a></td>
+    <td align="center"><a href="http://q-edu-lab.com"><img src="https://avatars.githubusercontent.com/u/72672758?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tamás Varga</b></sub></a><br /><a href="https://github.com/mickahell/qhack21/commits?author=tvarga78" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/mickahell"><img src="https://avatars.githubusercontent.com/u/20951376?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mica</b></sub></a><br /><a href="https://github.com/mickahell/qhack21/commits?author=mickahell" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
